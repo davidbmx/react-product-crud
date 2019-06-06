@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Macbook pro",
+    "description": "laptop for developers",
+    "price": "999.99",
+    "quantity": 10
+    "image": "https://i.imgur.com/hVOxDYK.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bmx haro",
+    "description": "Bmx for people cool",
+    "price": "999.99",
+    "quantity": 10
+    "image": "https://i.imgur.com/hVOxDYK.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Iphone 10",
+    "description": "smart phone",
+    "price": "999.99",
+    "quantity": 10
+    "image": "https://i.imgur.com/hVOxDYK.jpg"
+  }
+]
